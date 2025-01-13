@@ -1,0 +1,50 @@
+{
+  "uuid": "1947bb75-0801-44a2-bcd6-0f2fb317070e",
+  "historyId": "dc2624078bbbdb0e6eaf37c0a1357332",
+  "testCaseId": "45cacad6dad78bb24d5a93bb0c191077",
+  "fullName": "TrelloAutomationTests:TestsTrello.GetBoardLists_ShouldReturnLists()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "WILLIAM"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBoardLists_ShouldReturnLists"
+    },
+    {
+      "name": "testClass",
+      "value": "TestsTrello"
+    }
+  ],
+  "links": [],
+  "name": "GetBoardLists_ShouldReturnLists",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "41ac710b-bf69-448b-9ec0-c882ef3231fc-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1736556531745,
+  "stop": 1736556532181
+}

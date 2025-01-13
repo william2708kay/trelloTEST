@@ -1,0 +1,12 @@
+{
+  "uuid": "96785f51-cc7c-46e6-b5c8-6fccb77683df",
+  "name": "TestsTrello.GetBoardLists_ShouldReturnLists",
+  "children": [
+    "1947bb75-0801-44a2-bcd6-0f2fb317070e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736556531745,
+  "stop": 1736556532182
+}

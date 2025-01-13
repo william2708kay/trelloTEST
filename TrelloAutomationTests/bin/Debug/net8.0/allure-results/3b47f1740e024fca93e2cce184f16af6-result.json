@@ -1,0 +1,50 @@
+{
+  "uuid": "080236ad-0032-45e3-b025-175ff67ae137",
+  "historyId": "c36b5118cc9c7d625e1eb9da68d030b7",
+  "testCaseId": "85a5bd84d08a6757058592f7f2170558",
+  "fullName": "TrelloAutomationTests:TestsTrello.CreateBoard_ShouldReturnSuccess()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "WILLIAM"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "CreateBoard_ShouldReturnSuccess"
+    },
+    {
+      "name": "testClass",
+      "value": "TestsTrello"
+    }
+  ],
+  "links": [],
+  "name": "CreateBoard_ShouldReturnSuccess",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6f3f5e3c-8757-4908-8daa-7a067463364f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1736560351834,
+  "stop": 1736560352659
+}
