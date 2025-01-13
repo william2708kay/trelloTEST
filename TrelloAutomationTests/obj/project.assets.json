@@ -8833,11 +8833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\TrelloAutomationTests\\TrelloAutomationTests.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\trelloTEST\\TrelloAutomationTests\\TrelloAutomationTests.csproj",
       "projectName": "TrelloAutomationTests",
-      "projectPath": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\TrelloAutomationTests\\TrelloAutomationTests.csproj",
+      "projectPath": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\trelloTEST\\TrelloAutomationTests\\TrelloAutomationTests.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\TrelloAutomationTests\\obj\\",
+      "outputPath": "C:\\Users\\willi\\ultimo intento\\TrelloAutomationTests\\trelloTEST\\TrelloAutomationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
